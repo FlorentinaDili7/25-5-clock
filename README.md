@@ -1,4 +1,4 @@
-# DEPLOYED APP IN HERE: https://vercel.com/florentinaqxs-projects/25-5-clock
+# DEPLOYED APP IN HERE: [https://vercel.com/florentinaqxs-projects/25-5-clock](https://25-5-clock-phi.vercel.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
